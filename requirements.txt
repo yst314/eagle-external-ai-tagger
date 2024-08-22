@@ -4,3 +4,4 @@ onnxruntime
 pandas
 pillow
 tqdm
+requests
